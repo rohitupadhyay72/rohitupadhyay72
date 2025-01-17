@@ -1,3 +1,4 @@
+![MasterHead]([https://greymatter.com/wp-content/uploads/2021/12/ezgif.com-optimize.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1iM2xnbXVxaHVzOXVnMHcxNmo3OXoyMzNldGdmYnNtd2lmdThyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif))
 ### Hi 👋, I'm Rohit Upadhyay  
 🚀 Aspiring Frontend Developer | Passionate about Web Technologies  
 
@@ -19,7 +20,7 @@
 
 🔹 **Connect With Me**  
 📧 **Email:** rohitupadhyay7274@gmail.com  
-💼 **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/rohit-upadhyay-6582062a1/)](#)  
+💼 **LinkedIn:** [[Rohit Upadhyay](https://www.linkedin.com/in/rohit-upadhyay-6582062a1/)](#)  
 👨‍💻 **GitHub:** [github.com/rohitupadhyay72](#)
 
 ---
