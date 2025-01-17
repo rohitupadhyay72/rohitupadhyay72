@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1iM2xnbXVxaHVzOXVnMHcxNmo3OXoyMzNldGdmYnNtd2lmdThyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif))
+![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Y1eXBjZGFuczA2YmFyNXl1aGd3d3hwNXpxZHJsbzJ0dnk4cHR3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif)))
 ### Hi 👋, I'm Rohit Upadhyay  
 🚀 Aspiring Frontend Developer | Passionate about Web Technologies  
 
