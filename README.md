@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Y1eXBjZGFuczA2YmFyNXl1aGd3d3hwNXpxZHJsbzJ0dnk4cHR3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif)
+![MasterHead](https://greymatter.com/wp-content/uploads/2021/12/ezgif.com-optimize.gif)
 ### Hi 👋, I'm Rohit Upadhyay  
 🚀 Aspiring Frontend Developer | Passionate about Web Technologies  
 
