@@ -1,3 +1,4 @@
+[Profile Banner]([https://your-image-link.com](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVpMjkwNGhhd3E3MWhubnQ3OWNzb2xmNWl3a3NtMTEzb3JrZmh1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif))
 💻 Rohit Upadhyay | Aspiring Frontend Developer 🚀
 Hi there! I'm Rohit Upadhyay, a passionate Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React.js. I love building dynamic, interactive, and user-friendly web applications that enhance the user experience.
 
@@ -24,3 +25,6 @@ Full Web Development Internship Course - Internshala
 📩 Email: rohitupadhyay7274@gmail.com
 🔗 LinkedIn: (https://www.linkedin.com/in/rohit-upadhyay-6582062a1/)  
 👨‍💻 GitHub: [github.com/rohitupadhyay72]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitUpadhyay7274&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitUpadhyay7274&layout=compact)
+
