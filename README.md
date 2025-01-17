@@ -27,5 +27,6 @@
 ⭐ **Star my projects if you like them!**  
 <p align="left"> <img width="175" src="https://komarev.com/ghpvc/?username=rohitupadhyay72&label=Profile%20views&color=0e75b6&style=flat" alt="nirbhay4122" /> </p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitupadhyay72&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitupadhyay72&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohitupadhyay72&layout=compact)
+
 
