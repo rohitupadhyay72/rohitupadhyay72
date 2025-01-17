@@ -30,7 +30,7 @@
 <p align="left"> <img width="175" src="https://komarev.com/ghpvc/?username=rohitupadhyay72&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit Upadhyay" /> </p>
 <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitupadhyay72&show_icons=true&locale=en&layout=compact" alt="Rohit Upadhyay" />
   
-<img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitupadhyay72&" alt="rohitupadhyay72" />
+<img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=rohitupadhyay72&show_icons=true&theme=radical" alt="rohitupadhyay72" />
 
 
 
