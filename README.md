@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Upadhyay </h1>
 <h3 align="center">🚀 Aspiring Frontend Developer | Passionate about Web Technologies</h3>
  
-  
-
-![Profile Banner](https://avatars.githubusercontent.com/u/139796090?v=4)
+ 
 
 🔹 **About Me**  
 💻 Frontend Developer skilled in **HTML, CSS, JavaScript, React.js**  
