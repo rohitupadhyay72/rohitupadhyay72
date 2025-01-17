@@ -25,6 +25,6 @@ Full Web Development Internship Course - Internshala
 📩 Email: rohitupadhyay7274@gmail.com
 🔗 LinkedIn: (https://www.linkedin.com/in/rohit-upadhyay-6582062a1/)  
 👨‍💻 GitHub: [github.com/rohitupadhyay72]
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitUpadhyay7274&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitUpadhyay7274&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitupadhyay72&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitupadhyay72&layout=compact)
 
