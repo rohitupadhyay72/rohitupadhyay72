@@ -19,8 +19,8 @@
 - **Modern Calculator Web App** 🧮 - A sleek and responsive calculator  
 
 🔹 **Connect With Me**  
-📧 **Email:** [[rohitupadhyay7274@gmail.com](https://mailto.rohitupadhyay7274@gmail.com)](#)
-💼 **LinkedIn:** [[Rohit Upadhyay](https://www.linkedin.com/in/rohit-upadhyay-6582062a1/)](#)  
+📧 **Email:** [https://mailto.rohitupadhyay7274@gmail.com](#)
+💼 **LinkedIn:** [https://www.linkedin.com/in/rohit-upadhyay-6582062a1/)](#)  
 👨‍💻 **GitHub:** [github.com/rohitupadhyay72](#)
 
 ---
