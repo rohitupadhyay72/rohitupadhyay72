@@ -2,7 +2,7 @@
 ### Hi 👋, I'm Rohit Upadhyay  
 🚀 Aspiring Frontend Developer | Passionate about Web Technologies  
 
-![Profile Banner](https://your-image-link.com)
+![Profile Banner](https://avatars.githubusercontent.com/u/139796090?v=4)
 
 🔹 **About Me**  
 💻 Frontend Developer skilled in **HTML, CSS, JavaScript, React.js**  
