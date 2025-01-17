@@ -1,6 +1,8 @@
 ![MasterHead](https://greymatter.com/wp-content/uploads/2021/12/ezgif.com-optimize.gif)
-### Hi 👋, I'm Rohit Upadhyay  
-🚀 Aspiring Frontend Developer | Passionate about Web Technologies  
+<h1 align="center">Hi 👋, I'm Rohit Upadhyay </h1>
+<h3 align="center">🚀 Aspiring Frontend Developer | Passionate about Web Technologies</h3>
+ 
+  
 
 ![Profile Banner](https://avatars.githubusercontent.com/u/139796090?v=4)
 
@@ -25,8 +27,10 @@
 
 ---
 ⭐ **Star my projects if you like them!**  
-<p align="left"> <img width="175" src="https://komarev.com/ghpvc/?username=rohitupadhyay72&label=Profile%20views&color=0e75b6&style=flat" alt="nirbhay4122" /> </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitupadhyay72&show_icons=true&theme=radical)(#)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohitupadhyay72&layout=compact)(#)
+<p align="left"> <img width="175" src="https://komarev.com/ghpvc/?username=rohitupadhyay72&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit Upadhyay" /> </p>
+<img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitupadhyay72&show_icons=true&locale=en&layout=compact" alt="Rohit Upadhyay" />
+  
+<img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitupadhyay72&" alt="Rohit Upadhyay" />
+
 
 
