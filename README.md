@@ -27,7 +27,7 @@
 ---
 ⭐ **Star my projects if you like them!**  
 <p align="left"> <img width="175" src="https://komarev.com/ghpvc/?username=rohitupadhyay72&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit Upadhyay" /> </p>
-<div style="display:flex,justify-content: space-between;"><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitupadhyay72&show_icons=true&locale=en&layout=compact" alt="Rohit Upadhyay" /><img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=rohitupadhyay72&show_icons=true&theme=radical" alt="rohitupadhyay72" /></div>
+<div ><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitupadhyay72&show_icons=true&locale=en&layout=compact" alt="Rohit Upadhyay" /><img style="margin-left:250px" height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=rohitupadhyay72&show_icons=true&theme=radical" alt="rohitupadhyay72" /></div>
 
   
 
