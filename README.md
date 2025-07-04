@@ -84,13 +84,13 @@
   <img width="175" src="https://komarev.com/ghpvc/?username=rohitupadhyay72&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit Upadhyay" />
 </p>
 
-<table>
+<table width="100%">
   <tr>
     <td>
-      <img height="150" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitupadhyay72&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitupadhyay72&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
     <td>
-      <img height="150" width="50%" src="https://github-readme-stats.vercel.app/api?username=rohitupadhyay72&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img height="150"  src="https://github-readme-stats.vercel.app/api?username=rohitupadhyay72&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
