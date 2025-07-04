@@ -11,7 +11,7 @@
 🛠️ Strong grip on **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and core web technologies  
 💡 Passionate about combining **frontend creativity with backend logic**  
 🌱 Currently pursuing **MERN Stack Development** at DUCAT  
-📍 Based in **Varanasi, U.P | Born: 12 April 2002**
+📍 Based in **Varanasi, U.P **
 
 ---
 
